@@ -11,5 +11,5 @@ Econometrics and applied statistics project conducted under the supervision of @
   - FGE (Fichiers généraux de l'Etat - general state files, Insee)
   - Siasp (Insee)
 
-**Bibliography** : Robette N., <u> L'analyse statistique des trajectoires. <u> No. 12. Ined Editions, 2021.
+**Bibliography** : Robette N., <u> L'analyse statistique des trajectoires. </u> No. 12. Ined Editions, 2021.
 
