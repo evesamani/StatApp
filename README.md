@@ -12,5 +12,6 @@ Econometrics and applied statistics project conducted under the supervision of B
   - Siasp (Insee)
 
 The report and summary sheet are currently only available in French.
+
 **The underlying codes are not made available here due to the use of sensitive administrative data, but can be retrieved if required.**
 
